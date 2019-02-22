@@ -1,7 +1,10 @@
+# Deep RL Arm Manipulation
 
 Write up for the project is in the DeepRL.pdf file.
 
-# Deep RL Arm Manipulation
+A video demonstrating learning in action is DeepRL.mp4.
+
+--- (the following is the original Udacity project notes)
 
 This project is based on the Nvidia open source project "jetson-reinforcement" developed by [Dustin Franklin](https://github.com/dusty-nv). The goal of the project is to create a DQN agent and define reward functions to teach a robotic arm to carry out two primary objectives:
 
